@@ -18,6 +18,6 @@
 - [gap-analysis](docs/analysis/gap-analysis.md)
 - [functional-requirements](docs/requirements/functional-requirements.md) · [non-functional-requirements](docs/requirements/non-functional-requirements.md)
 - [proposed-design](docs/architecture/proposed-design.md)
-- [implementation-plan](docs/roadmap/implementation-plan.md)
+- [implementation-plan](docs/roadmap/implementation-plan.md) · [phase1-status](docs/roadmap/phase1-status.md)
 - [acceptance-tests](docs/testing/acceptance-tests.md)
 - [decisions](docs/decisions/decisions.md)
